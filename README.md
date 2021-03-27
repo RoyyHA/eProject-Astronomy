@@ -10,7 +10,7 @@ Project-title: Astronomy Website
 
 3 collarborators:
 
-Group Members                  Name	                         Student ID
+Group Members             Name        Students ID
 
 
 ============================
