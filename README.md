@@ -10,10 +10,6 @@ Project-title: Astronomy Website
 
 3 collarborators:
 
-Group Members:
-
-3 collarborators:đănknă
-
     Group members                  Name	                         Student ID
                               Phạm Thiên Long (Team leader)    Student1285597
                               Ngô Tùng Thạch                   Student1288224 
