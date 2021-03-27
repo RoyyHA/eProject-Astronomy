@@ -12,7 +12,9 @@ Project-title: Astronomy Website
 
 Group Members:
 
-Phạm Thiên Long (Students ID: Student1285597) ---- Phạm Thiên Long (Students ID: Student1285597)
+3 collarborators:đănknă
+dakwdnkjă
+dă kd
 ============================
 
 eProject documentation at : https://github.com/RoyyHA/eProject-Astronomy/tree/main/Review
