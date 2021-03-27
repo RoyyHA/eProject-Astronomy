@@ -11,7 +11,7 @@ Project-title: Astronomy Website
 3 collaborators:
 
 Group members                  Name	                         Student ID
-                          Phạm Thiên Long (Team leader)     Student1285597
+                          Phạm Thiên Long (Team Leader)      Student1285597
                           Ngô Tùng Thạch                    Student1288224
                           Nguyễn Bá Triết                   Student1286314
 ============================
