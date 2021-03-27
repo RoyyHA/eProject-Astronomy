@@ -10,12 +10,9 @@ Project-title: Astronomy Website
 
 3 collarborators:
 
-Group Members
+Group Members:
 
-Name: Phạm Thiên Long         dwa
-      Ngô Tùng Thạch
-      Nguyễn Bá Triết
-
+Phạm Thiên Long (Students ID: Student1285597) ---- Phạm Thiên Long (Students ID: Student1285597)
 ============================
 
 eProject documentation at : https://github.com/RoyyHA/eProject-Astronomy/tree/main/Review
