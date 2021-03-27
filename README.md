@@ -10,8 +10,11 @@ Project-title: Astronomy Website
 
 3 collarborators:
 
-Group Members             Name        Students ID
+Group Members
 
+Name: Phạm Thiên Long         dwa
+      Ngô Tùng Thạch
+      Nguyễn Bá Triết
 
 ============================
 
