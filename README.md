@@ -6,14 +6,13 @@ CENTER NAME: ACE_HCMC-2-FPT
 
 Project-title: Astronomy Website
 
-========> GROUP 1 <========
+========> Group 1 <========
 
-3 collaborators:
+3 collarborators:
 
-Group members                  Name	                         Student ID
-                          Trần Công Minh (Team leader)       Student1285591
-                          Đỗ Huy Hoàng                       Student1288223 
-                          Huỳnh Nhật Hiếu                    Student1279084
+Group Members                  Name	                         Student ID
+
+
 ============================
 
 eProject documentation at : https://github.com/RoyyHA/eProject-Astronomy/tree/main/Review
