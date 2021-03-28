@@ -24,7 +24,7 @@ eProject published at : https://royyha.github.io/eProject-Astronomy/
 
 ============================
 
-eProject video published at : https://www.youtube.com/watch?v=0870kZMWAtQ
+eProject video published at: https://www.youtube.com/watch?v=0870kZMWAtQ
 ============================
 
 Thank you for spending your time to look at our work.
